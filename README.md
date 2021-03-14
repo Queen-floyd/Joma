@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Queen-floyd
+- 👋 Hi, I’m @Joma
 - 👀 I’m interested in learning html and CSS
 - 🌱 I’m currently learning git, github, html and CSS
 - 💞️ I’m looking to collaborate on ...
